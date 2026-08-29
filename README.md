@@ -14,7 +14,7 @@ The three engineering-related datasets analysed in this project are:
 - **Schneider Electric (SU.PA)** - industrial automation, electrification and energy management
 - **NVIDIA (NVDA)** - high-performance computing and semiconductor tech
 
-\
+#
 
 A deliberate focus was made on transparent and interpretable methods, rather than predictive machine-learning or trading models. All returns were GBP-adjusted and the analysis time period was fixed (**25 August 2025 - 25 August 2026**), before synchronisation reduced this to **249 common trading days**. As a result, the final comparison concerns these 249 common trading days.
 
