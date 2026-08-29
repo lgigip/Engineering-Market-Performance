@@ -20,7 +20,7 @@ A deliberate focus was made on transparent and interpretable methods, rather tha
 
 Extreme observations were individually investigated, to ensure legitimacy, before analysis. Ferrari's notably large negative return, on October 9th 2025, was retained after validation against Ferrari's Capital Markets Day and concurring market reports. Investors grew concerned over the release of Ferrari's long-term growth proposal, therefore, the -14.86% GBP return resulted from a genuine market event.
 
-\
+#
 
 The strongest observed return was produced by Schneider, whilst Ferrari's annual return was negative, and produced the most severe single-day shock. NVIDIA exhibited a similar return to the benchmark (S&P 500), however, NVIDIA produced the greatest overall day-to-day volatility. 
 
