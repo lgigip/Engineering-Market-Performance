@@ -13,13 +13,14 @@ The three engineering-related datasets analysed in this project are:
 - **Ferrari (RACE)** - automotive and motorsport engineering
 - **Schneider Electric (SU.PA)** - industrial automation, electrification and energy management
 - **NVIDIA (NVDA)** - high-performance computing and semiconductor tech
-\\
+
+\
 
 A deliberate focus was made on transparent and interpretable methods, rather than predictive machine-learning or trading models. All returns were GBP-adjusted and the analysis time period was fixed (**25 August 2025 - 25 August 2026**), before synchronisation reduced this to **249 common trading days**. As a result, the final comparison concerns these 249 common trading days.
 
 Extreme observations were individually investigated, to ensure legitimacy, before analysis. Ferrari's notably large negative return, on October 9th 2025, was retained after validation against Ferrari's Capital Markets Day and concurring market reports. Investors grew concerned over the release of Ferrari's long-term growth proposal, therefore, the -14.86% GBP return resulted from a genuine market event.
 
-\\
+\
 
 The strongest observed return was produced by Schneider, whilst Ferrari's annual return was negative, and produced the most severe single-day shock. NVIDIA exhibited a similar return to the benchmark (S&P 500), however, NVIDIA produced the greatest overall day-to-day volatility. 
 
