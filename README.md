@@ -3,17 +3,17 @@
 
 The reusable workflow developed in this project serves to analyse and compare the behaviour of several engineering-related equities against a broad-market benchmark (**S&P 500**). This pipeline was validated against event-driven outliers and tested across automotive, semi-conductor and industrial engineering equities. 
 
+The three engineering-related datasets analysed in this project are:
+- **Ferrari (RACE)** - automotive and motorsport engineering
+- **Schneider Electric (SU.PA)** - industrial automation, electrification and energy management
+- **NVIDIA (NVDA)** - high-performance computing and semiconductor tech
+
 In detecting changing volatility regimes in noisy market data, the objective of this project was to conduct preprocessing, statistical characterisation, validation and comprarative interpretation. Each dataset is treated as a noisy time-series signal and, in addition to extreme observations and behaviour relative to the benchmark, investigates:
 
 - relative performance
 - daily return variability
 - rolling volatility
 - max drawdown
-
-The three engineering-related datasets analysed in this project are:
-- **Ferrari (RACE)** - automotive and motorsport engineering
-- **Schneider Electric (SU.PA)** - industrial automation, electrification and energy management
-- **NVIDIA (NVDA)** - high-performance computing and semiconductor tech
 
 #
 
