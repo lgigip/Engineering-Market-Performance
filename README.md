@@ -22,12 +22,10 @@ Extreme observations were individually investigated, to ensure legitimacy, befor
 
 #
 
-The strongest observed return was produced by Schneider, whilst Ferrari's annual return was negative, and produced the most severe single-day shock. NVIDIA exhibited a similar return to the benchmark (S&P 500), however, NVIDIA produced the greatest overall day-to-day volatility. 
+Volatility-regime analysis showed absolute volatility levels differed materially between assets, while the percentile classifier provided an asset relative condition-monitoring framework. Ferrari's severe single-day shock is distinctly greater than it's negative annual return, demonstrating the importance of path-dependent downside risk over simple end-to-end returns. The strongest observed return was produced by Schneider, whilst NVIDIA exhibited a similar return to the benchmark (S&P 500) and produced the greatest overall day-to-day volatility.
 
 During this specific observation window:
 - Schneider Electric delivered a GBP-adjusted performance of +39.33%, with a maximum drawdown of 18.37%.
 - NVIDIA returned +16.88% but exhibited a substantially deeper maximum drawdown of -20.78%.
 - Ferrari returned -9.50% and experienced the greatest drawdown of -37.33%.
 - S&P 500 returned +17.88%, with a maximum drawdown of -8.50%.
-
-Path-dependent downside risk rather than simply end-to -end return. Volatility-regime analysis showed absolute volatility levels differed materially between assets, while the percentile classifier provided an asset relative condition-monitoring framework.
