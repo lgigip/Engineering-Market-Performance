@@ -1,5 +1,5 @@
 # Engineering Market Performance Project
-## Performance, Volatility and Drawdown Across Equities.
+## Performance, Volatility and Drawdown Across Equities
 
 The reusable workflow developed in this project serves to analyse and compare the behaviour of several engineering-related equities against a broad-market benchmark (**S&P 500**). This pipeline was validated against event-driven outliers and tested across automotive, semi-conductor and industrial engineering equities. In detecting changing volatility regimes in noisy market data, the objective of this project was to conduct preprocessing, statistical characterisation, validation and comprarative interpretation. 
 
